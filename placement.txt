@@ -1,0 +1,7 @@
+<html>
+<head></head>
+<body>
+<h3 style="color:green">Placements</h3>
+<img src="C:\Users\salup\Documents\simple" height="100px" width="100px"></img>
+</body>
+</html>
